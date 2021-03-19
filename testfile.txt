@@ -1,3 +1,0 @@
-This file is to test push.
-
-This is an edit to test push again.
